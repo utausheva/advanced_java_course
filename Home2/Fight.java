@@ -1,0 +1,14 @@
+package Home2;
+
+/**
+ * Created by user on 31.12.2016.
+ */
+public interface Fight {
+
+    void setEnergy(int energy);
+    int getEnergy();
+
+    boolean stopFight();
+
+
+}
